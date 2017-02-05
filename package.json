@@ -1,7 +1,7 @@
 {
-  "name": "johnkpaul",
+  "name": "chrisbeaver",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "description": "Christopher M. Beaver, the person",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
